@@ -1,4 +1,4 @@
-# reinstall-DE-for-EndeavourOS
+# reinstall-DE/WM/BASE-for-EndeavourOS
 
 `git clone https://github.com/killajoe/reinstall-DE-for-EndeavourOS.git`
 
