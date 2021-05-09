@@ -1,8 +1,8 @@
 # reinstall-DE/WM/BASE-for-EndeavourOS
 
-`git clone https://github.com/killajoe/reinstall-DE-for-EndeavourOS.git`
+`git clone https://github.com/endeavouros-team/EndeavourOS-packages-lists.git`
 
-`cd reinstall-DE-for-EndeavourOS`
+`cd EndeavourOS-packages-lists`
 
 `ls`
 will list the files
