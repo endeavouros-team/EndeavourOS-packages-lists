@@ -1,7 +1,6 @@
 ark
 audiocd-kio
 breeze-gtk
-dbus-python
 dolphin
 dragon
 elisa
@@ -26,3 +25,4 @@ print-manager
 sddm-kcm
 solid
 spectacle
+xsettingsd
