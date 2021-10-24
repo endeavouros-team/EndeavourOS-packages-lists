@@ -29,6 +29,7 @@ rofi
 sysstat
 thunar
 thunar-archive-plugin
+thunar-media-tags-plugin
 thunar-volman
 ttf-cascadia-code
 ttf-nerd-fonts-symbols
