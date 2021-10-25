@@ -49,6 +49,7 @@ fsarchiver
 git
 glances
 gnu-netcat
+grub
 grub-tools
 grub2-theme-endeavouros
 gst-libav
@@ -84,6 +85,7 @@ man-db
 man-pages
 mdadm
 meld
+mkinitcpio
 mkinitcpio-busybox
 mkinitcpio-nfs-utils
 mkinitcpio-openswap
@@ -138,7 +140,7 @@ sg3_utils
 smartmontools
 sof-firmware
 sshfs
-sudo grub
+sudo
 sysfsutils
 systemd-sysvcompat
 texinfo
@@ -175,7 +177,7 @@ xorg-xinit
 xorg-xinput
 xorg-xkill
 xorg-xrandr
-xterm mkinitcpio
+xterm
 xz
 yad-eos
 yay
