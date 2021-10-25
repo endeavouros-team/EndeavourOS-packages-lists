@@ -5,6 +5,7 @@ arc-x-icons-theme
 archlinux-xdg-menu
 capitaine-cursors
 dex
+endeavouros-xfce4-terminal-colors
 eos-skel-ce-qtile
 feh
 gtk-engine-murrine
@@ -38,6 +39,5 @@ xbindkeys
 xcursor-neutral
 xdg-user-dirs-gtk
 xfce4-terminal
-endeavouros-xfce4-terminal-colors
 xorg-xbacklight
 xorg-xdpyinfo
