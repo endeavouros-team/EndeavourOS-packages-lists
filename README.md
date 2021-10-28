@@ -39,4 +39,4 @@ example:
 
 Note that installing DE packages this way can cause various problems, e.g. running multiple conflicting bluetooth managers etc.
 
-So doing this is at your own risk. If you proceed, you should be seasoned enough to be able to fix any potential problems caused by using these instructions.
+So doing this is at your own risk. If you proceed, you should be experienced enough to be able to fix any potential problems caused by using these instructions.
