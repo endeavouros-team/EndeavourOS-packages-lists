@@ -85,6 +85,7 @@ man-db
 man-pages
 mdadm
 meld
+mesa-demos
 mkinitcpio
 mkinitcpio-busybox
 mkinitcpio-nfs-utils
@@ -173,6 +174,7 @@ xf86-video-intel
 xfsprogs
 xl2tpd
 xorg-server
+xorg-xdpyinfo
 xorg-xinit
 xorg-xinput
 xorg-xkill
