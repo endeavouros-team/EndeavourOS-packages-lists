@@ -45,4 +45,5 @@ xbindkeys
 xdg-user-dirs-gtk
 xed
 xfce4-terminal
+xorg-xbacklight
 xorg-xdpyinfo
