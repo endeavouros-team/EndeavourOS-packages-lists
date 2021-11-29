@@ -122,12 +122,14 @@ pkgfile
 poppler-glib
 ppp
 pptpclient
-pulseaudio
-pulseaudio-alsa
-pulseaudio-jack
+pipewire-pulse
+pipewire-media-session
+pipewire-alsa
+pipewire-jack
 pv
 python
 python-defusedxml
+python-packaging
 r8168
 rebuild-detector
 reflector
