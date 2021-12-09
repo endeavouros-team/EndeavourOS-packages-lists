@@ -13,8 +13,6 @@ lxsession
 lxtask
 lxterminal	
 openbox
-arc-gtk-theme-eos
-arc-x-icons-theme
 file-roller
 galculator
 gvfs
@@ -23,8 +21,7 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
-lightdm
-lightdm-slick-greeter
+lxde
 network-manager-applet
 pcmanfm
 xdg-user-dirs-gtk
