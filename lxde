@@ -1,3 +1,5 @@
+arc-gtk-theme-eos
+arc-x-icons-theme
 celluloid
 file-roller
 galculator
@@ -9,11 +11,11 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 lightdm
+lightdm-slick-greeter
 lxappearance
 lxappearance-obconf
 lxde-common
 lxde-icon-theme
-lxdm
 lxhotkey
 lxinput
 lxlauncher
