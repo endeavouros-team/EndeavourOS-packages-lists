@@ -9,7 +9,6 @@ capitaine-cursors
 dex
 dmenu
 dunst
-endeavouros-skel-xfce4
 endeavouros-xfce4-terminal-colors
 file-roller
 galculator
