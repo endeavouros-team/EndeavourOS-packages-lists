@@ -25,6 +25,8 @@ example:
 
 `sudo pacman -S --needed - < i3`
 
+`sudo pacman -S --needed - < lxde`
+
 `sudo pacman -S --needed - < lxqt`
 
 `sudo pacman -S --needed - < mate`
