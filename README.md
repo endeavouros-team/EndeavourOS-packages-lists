@@ -1,5 +1,7 @@
 # reinstall-DE/WM/BASE-for-EndeavourOS
 
+[![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)]()
+
 `git clone https://github.com/endeavouros-team/EndeavourOS-packages-lists.git`
 
 `cd EndeavourOS-packages-lists`
