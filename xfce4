@@ -12,8 +12,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
+lightdm-slick-greeter
 network-manager-applet
 parole
 ristretto
