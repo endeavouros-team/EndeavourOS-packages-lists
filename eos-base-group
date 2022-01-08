@@ -44,7 +44,6 @@ ffmpegthumbnailer
 findutils
 firefox
 freetype2
-freetype2
 fsarchiver
 git
 glances
@@ -113,14 +112,14 @@ pacman-contrib
 pavucontrol
 pcurses
 perl
+pipewire-alsa
+pipewire-jack
+pipewire-media-session
+pipewire-pulse
 pkgfile
 poppler-glib
 ppp
 pptpclient
-pipewire-pulse
-pipewire-media-session
-pipewire-alsa
-pipewire-jack
 pv
 python
 python-defusedxml
@@ -142,7 +141,7 @@ sysfsutils
 systemd-sysvcompat
 texinfo
 tldr
-tlp
+power-profiles-daemon
 ttf-bitstream-vera
 ttf-dejavu
 ttf-liberation
@@ -176,6 +175,7 @@ xorg-xinput
 xorg-xkill
 xorg-xrandr
 xterm
+xterm mkinitcpio
 xz
 yad-eos
 yay
