@@ -52,10 +52,6 @@ gnu-netcat
 grub
 grub-tools
 grub2-theme-endeavouros
-gst-libav
-gst-plugin-pipewire
-gst-plugins-bad
-gst-plugins-ugly
 haveged
 hdparm
 hwdetect
@@ -129,7 +125,6 @@ pv
 python
 python-defusedxml
 python-packaging
-r8168
 rebuild-detector
 reflector
 reflector-simple
