@@ -1,6 +1,14 @@
 arc-gtk-theme-eos
 arc-x-icons-theme
 celluloid
+cinnamon
+cinnamon-translations
+file-roller
+gnome-calculator
+gnome-screenshot
+gnome-system-monitor
+gnome-terminal
+gthumb
 gvfs
 gvfs-afc
 gvfs-gphoto2
@@ -9,7 +17,9 @@ gvfs-nfs
 gvfs-smb
 lightdm
 lightdm-slick-greeter
-mate
-mate-extra
-network-manager-applet
+nemo-fileroller
+nemo-image-converter
+nemo-preview
+nemo-share
+x-apps
 xdg-user-dirs-gtk
