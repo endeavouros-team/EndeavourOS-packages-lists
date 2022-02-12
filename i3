@@ -32,6 +32,7 @@ network-manager-applet
 nitrogen
 numlockx
 picom
+playerctl
 polkit-gnome
 rofi
 scrot
