@@ -2,14 +2,12 @@ acpi
 arandr
 arc-gtk-theme-eos
 archlinux-xdg-menu
-arc-x-icons-theme
 awesome-terminal-fonts
-capitaine-cursors
-celluloid
 dex
 dmenu
 dunst
 endeavouros-xfce4-terminal-colors
+eos-qogir-icons
 file-roller
 galculator
 gthumb
@@ -28,6 +26,7 @@ jq
 lightdm
 lightdm-slick-greeter
 lxappearance-gtk3
+mpv
 network-manager-applet
 nitrogen
 numlockx
