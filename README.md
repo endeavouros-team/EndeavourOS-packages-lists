@@ -1,6 +1,12 @@
 # reinstall-DE/WM/BASE-for-EndeavourOS
+we now offer a script/package to get DE/WM installed by list of packages from ISO:
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)]()
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-packagelist
+
+You can install on EndeavourOS: `sudo pacman -S eos-packagelist`
+
+We will keep this repo also updated and if you may need to use it will work like before:
+
 
 `git clone https://github.com/endeavouros-team/EndeavourOS-packages-lists.git`
 
