@@ -1,6 +1,6 @@
 adwaita-icon-theme
 arc-gtk-theme-eos
-arc-x-icons-theme
+eos-qogir-icons
 eog
 evince
 file-roller
@@ -11,6 +11,7 @@ gnome-control-center
 gnome-disk-utility
 gnome-keyring
 gnome-nettool
+gnome-power-manager
 gnome-screenshot
 gnome-shell
 gnome-terminal

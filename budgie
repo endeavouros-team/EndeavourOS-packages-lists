@@ -1,6 +1,6 @@
-adwaita-icon-theme
 arc-gtk-theme-eos
-arc-x-icons-theme
+eos-lightdm-slick-theme
+eos-qogir-icons
 budgie-desktop
 budgie-desktop-view
 budgie-extras
@@ -13,6 +13,7 @@ gnome-control-center
 gnome-disk-utility
 gnome-keyring
 gnome-nettool
+gnome-power-manager
 gnome-terminal
 gnome-themes-extra
 gnome-usage

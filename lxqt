@@ -2,6 +2,7 @@ audiocd-kio
 baka-mplayer
 breeze
 breeze-gtk
+eos-sddm-theme
 featherpad
 gvfs
 gvfs-mtp
@@ -16,6 +17,6 @@ oxygen-icons
 pavucontrol-qt
 print-manager
 qt5-translations
-sddm
 xdg-utils
 xscreensaver
+xsettingsd

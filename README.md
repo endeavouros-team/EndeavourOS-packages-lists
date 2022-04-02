@@ -49,6 +49,10 @@ example:
 
 `sudo pacman -S --needed - < eos-base-group`
 
+`sudo pacman -S --needed - < printing`
+
+`sudo pacman -S --needed - < hp`
+
 ## Disclaimer
 
 Note that installing DE packages this way can cause various problems, e.g. running multiple conflicting bluetooth managers etc.

@@ -1,6 +1,7 @@
 arc-gtk-theme
 dex
 dunst
+eos-lxdm-gtk3
 eos-skel-ce-worm
 feh
 file-roller
@@ -11,8 +12,6 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
-lightdm
-lightdm-slick-greeter
 papirus-icon-theme
 picom
 polybar

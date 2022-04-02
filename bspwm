@@ -1,13 +1,13 @@
 acpi
 arandr
 arc-gtk-theme-eos
-arc-x-icons-theme
 archlinux-xdg-menu
 bspwm
-capitaine-cursors
 dex
 dunst
 endeavouros-xfce4-terminal-colors
+eos-lightdm-slick-theme
+eos-qogir-icons
 eos-skel-ce-bspwm
 feh
 file-roller
@@ -24,6 +24,7 @@ jq
 lightdm
 lightdm-slick-greeter
 lxappearance-gtk3
+mpv
 network-manager-applet
 nitrogen
 picom

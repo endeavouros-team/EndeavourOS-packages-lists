@@ -1,18 +1,15 @@
 acpi
 arandr
 arc-gtk-theme-eos
-arc-x-icons-theme
 archlinux-xdg-menu
-capitaine-cursors
 dex
-endeavouros-xfce4-terminal-colors
+eos-lightdm-slick-theme
+eos-qogir-icons
 eos-skel-ce-qtile
 feh
 gtk-engine-murrine
 gvfs
 gvfs-afc
-gvfs-goa
-gvfs-google
 gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
@@ -20,6 +17,7 @@ gvfs-smb
 lightdm
 lightdm-slick-greeter
 lxappearance-gtk3
+mpv
 network-manager-applet
 papirus-icon-theme
 pasystray
@@ -38,7 +36,6 @@ tumbler
 xbindkeys
 xcursor-neutral
 xdg-user-dirs-gtk
-xed
 xfce4-terminal
 xorg-xbacklight
 xorg-xdpyinfo

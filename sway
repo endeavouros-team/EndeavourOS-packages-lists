@@ -1,15 +1,13 @@
 acpi
 arc-gtk-theme-eos
-arc-x-icons-theme
 archlinux-xdg-menu
 boost-libs
 brightnessctl
-capitaine-cursors
-celluloid
 dex
 diffuse
 egl-wayland
 endeavouros-xfce4-terminal-colors
+eos-qogir-icons
 eos-skel-ce-sway
 file-roller
 grim
@@ -18,9 +16,8 @@ gtk-layer-shell
 htop
 imv
 jq
-lightdm
-lightdm-slick-greeter
 lxappearance
+ly
 mako
 network-manager-applet
 oniguruma

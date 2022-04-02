@@ -2,12 +2,14 @@ acpi
 arandr
 arc-gtk-theme-eos
 archlinux-xdg-menu
+endeavouros-skel-i3wm
+eos-lightdm-slick-theme
+eos-qogir-icons
 awesome-terminal-fonts
 dex
 dmenu
 dunst
 endeavouros-xfce4-terminal-colors
-eos-qogir-icons
 file-roller
 galculator
 gthumb
