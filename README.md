@@ -23,15 +23,15 @@ example:
 
 `sudo pacman -S --needed - < xfce4`
 
+`sudo pacman -S --needed - < i3`
+
 `sudo pacman -S --needed - < budgie`
 
 `sudo pacman -S --needed - < cinnamon`
 
-`sudo pacman -S --needed - < deepin`
-
 `sudo pacman -S --needed - < gnome`
 
-`sudo pacman -S --needed - < i3`
+`sudo pacman -S --needed - < plasma`
 
 `sudo pacman -S --needed - < lxde`
 
@@ -41,7 +41,11 @@ example:
 
 `sudo pacman -S --needed - < openbox`
 
-`sudo pacman -S --needed - < plasma`
+`sudo pacman -S --needed - < sway`
+
+`sudo pacman -S --needed - < worm`
+
+`sudo pacman -S --needed - < qtile`
 
 `sudo pacman -S --needed - < eos-base-group`
 
