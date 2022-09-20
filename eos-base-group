@@ -42,8 +42,8 @@ wireless_tools
 wpa_supplicant
 xl2tpd
 firewalld
-bluez
-bluez-utils
+python-pyqt5
+python-capng
 downgrade
 pacman-contrib
 pkgfile
@@ -52,6 +52,8 @@ reflector
 yay
 accountsservice
 bash-completion
+bluez
+bluez-utils
 ffmpegthumbnailer
 gst-libav
 gst-plugin-pipewire
@@ -88,9 +90,10 @@ alsa-plugins
 alsa-utils
 pavucontrol
 pipewire-pulse
-pipewire-media-session
+wireplumber
 pipewire-alsa
 pipewire-jack
+rtkit
 amd-ucode
 dmidecode
 dmraid
@@ -111,7 +114,6 @@ eos-packagelist
 eos-quickstart
 eos-rankmirrors
 eos-update-notifier
-grub-tools
 reflector-simple
 welcome
 yad-eos

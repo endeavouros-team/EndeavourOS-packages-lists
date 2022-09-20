@@ -24,6 +24,7 @@ lxrandr-gtk3
 lxsession-gtk3
 lxtask-gtk3
 lxterminal
+notification-daemon
 openbox
 pcmanfm-gtk3
 lxmusic

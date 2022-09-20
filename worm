@@ -14,14 +14,15 @@ gvfs-nfs
 gvfs-smb
 papirus-icon-theme
 picom
-polybar
+tint2
 rofi
+slock
 sxhkd
 thunar
 thunar-archive-plugin
 thunar-volman
 ttf-jetbrains-mono
-ttf-nerd-fonts-symbols
+ttf-nerd-fonts-symbols-2048-em
 tumbler
 worm
 xcursor-neutral

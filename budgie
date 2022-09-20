@@ -1,6 +1,7 @@
 arc-gtk-theme-eos
 eos-lightdm-slick-theme
 eos-qogir-icons
+budgie-control-center
 budgie-desktop
 budgie-desktop-view
 budgie-extras
@@ -9,14 +10,9 @@ eog
 evince
 file-roller
 gedit
-gnome-control-center
-gnome-disk-utility
 gnome-keyring
-gnome-nettool
-gnome-power-manager
+gnome-screenshot
 gnome-terminal
-gnome-themes-extra
-gnome-usage
 gvfs
 gvfs-afc
 gvfs-gphoto2

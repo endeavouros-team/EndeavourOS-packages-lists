@@ -8,6 +8,7 @@ diffuse
 egl-wayland
 endeavouros-xfce4-terminal-colors
 eos-qogir-icons
+eos-sddm-theme
 eos-skel-ce-sway
 file-roller
 grim
@@ -17,12 +18,12 @@ htop
 imv
 jq
 lxappearance
-ly
 mako
 network-manager-applet
 oniguruma
 awesome-terminal-fonts
 polkit-gnome
+qt6-wayland
 slurp
 sway
 swaybg
@@ -34,7 +35,7 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 ttf-jetbrains-mono
-ttf-nerd-fonts-symbols
+ttf-nerd-fonts-symbols-2048-em
 ttf-ubuntu-font-family
 waybar
 wayland-protocols

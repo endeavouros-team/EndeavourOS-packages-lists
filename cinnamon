@@ -1,1 +1,26 @@
-No profile found matching: profile CINNAMON-Desktop
+arc-gtk-theme-eos
+eos-lightdm-slick-theme
+eos-qogir-icons
+celluloid
+cinnamon
+cinnamon-translations
+file-roller
+gnome-calculator
+gnome-screenshot
+gnome-system-monitor
+gnome-terminal
+gthumb
+gvfs
+gvfs-afc
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
+lightdm
+lightdm-slick-greeter
+nemo-fileroller
+nemo-image-converter
+nemo-preview
+nemo-share
+x-apps
+xdg-user-dirs-gtk
