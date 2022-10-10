@@ -10,6 +10,9 @@ xorg-xrandr
 xf86-video-amdgpu
 xf86-video-ati
 xf86-video-intel
+libva-mesa-driver
+libva-intel-driver
+intel-media-driver
 b43-fwcutter
 broadcom-wl-dkms
 dhclient
