@@ -2,14 +2,14 @@ acpi
 arandr
 arc-gtk-theme-eos
 archlinux-xdg-menu
-endeavouros-skel-i3wm
-eos-lightdm-slick-theme
-eos-qogir-icons
 awesome-terminal-fonts
 dex
 dmenu
 dunst
+endeavouros-skel-i3wm
 endeavouros-xfce4-terminal-colors
+eos-lightdm-slick-theme
+eos-qogir-icons
 file-roller
 galculator
 gthumb
@@ -20,8 +20,8 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
-i3blocks
 i3-gaps
+i3blocks
 i3lock
 i3status
 jq
@@ -32,7 +32,6 @@ mpv
 network-manager-applet
 nitrogen
 numlockx
-picom
 playerctl
 polkit-gnome
 rofi
