@@ -10,6 +10,7 @@ endeavouros-skel-i3wm
 endeavouros-xfce4-terminal-colors
 eos-lightdm-slick-theme
 eos-qogir-icons
+feh
 file-roller
 galculator
 gthumb
@@ -30,7 +31,6 @@ lightdm-slick-greeter
 lxappearance-gtk3
 mpv
 network-manager-applet
-nitrogen
 numlockx
 playerctl
 polkit-gnome
