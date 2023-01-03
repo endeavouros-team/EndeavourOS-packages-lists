@@ -21,7 +21,7 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
-i3-gaps
+i3-wm
 i3blocks
 i3lock
 i3status
