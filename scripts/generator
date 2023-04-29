@@ -1,3 +1,8 @@
+#!/bin/bash
+
+# Generate package files using online netinstall.yaml directly
+# using eos-packageslist
+
 eos-packagelist "XFCE4-Desktop" > xfce4    
 eos-packagelist "i3-Window-Manager" > i3
 eos-packagelist "KDE-Desktop" > kde      
