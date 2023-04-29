@@ -14,6 +14,7 @@ gvfs-nfs
 gvfs-smb
 papirus-icon-theme
 picom
+polkit-gnome
 tint2
 rofi
 slock
@@ -25,7 +26,6 @@ ttf-jetbrains-mono
 ttf-nerd-fonts-symbols-2048-em
 tumbler
 worm
-xcursor-neutral
 xdg-user-dirs-gtk
 xed
 xfce4-terminal

@@ -1,13 +1,10 @@
 adwaita-icon-theme
-arc-gtk-theme-eos
-endeavouros-gschema-gnome-git
-eos-qogir-icons
 eog
 evince
 file-roller
 gdm
-gedit
 gnome-calculator
+gnome-console
 gnome-control-center
 gnome-disk-utility
 gnome-keyring
@@ -15,7 +12,7 @@ gnome-nettool
 gnome-power-manager
 gnome-screenshot
 gnome-shell
-gnome-terminal
+gnome-text-editor
 gnome-themes-extra
 gnome-tweaks
 gnome-usage
@@ -27,6 +24,11 @@ gvfs-nfs
 gvfs-smb
 nautilus
 nautilus-sendto
+qgnomeplatform-qt5
+qgnomeplatform-qt6
 sushi
 totem
 xdg-user-dirs-gtk
+arc-gtk-theme-eos
+eos-settings-gnome
+eos-qogir-icons

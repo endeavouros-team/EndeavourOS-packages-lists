@@ -1,6 +1,3 @@
-arc-gtk-theme-eos
-eos-lightdm-slick-theme
-eos-qogir-icons
 celluloid
 cinnamon
 cinnamon-translations
@@ -24,3 +21,7 @@ nemo-preview
 nemo-share
 x-apps
 xdg-user-dirs-gtk
+arc-gtk-theme-eos
+eos-lightdm-slick-theme
+eos-qogir-icons
+eos-settings-cinnamon

@@ -1,7 +1,3 @@
-arc-gtk-theme-eos
-endeavouros-skel-mate-git
-eos-lightdm-slick-theme
-eos-qogir-icons
 celluloid
 gvfs
 gvfs-afc
@@ -15,3 +11,7 @@ mate
 mate-extra
 network-manager-applet
 xdg-user-dirs-gtk
+arc-gtk-theme-eos
+eos-settings-mate
+eos-lightdm-slick-theme
+eos-qogir-icons

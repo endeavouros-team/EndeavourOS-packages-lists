@@ -1,7 +1,3 @@
-arc-gtk-theme-eos
-endeavouros-skel-lxde-git
-eos-lxdm-gtk3
-eos-qogir-icons
 celluloid
 file-roller
 galculator
@@ -32,3 +28,7 @@ lxmusic
 network-manager-applet
 xdg-user-dirs-gtk
 xed
+arc-gtk-theme-eos
+eos-settings-lxde
+eos-lxdm-gtk3
+eos-qogir-icons

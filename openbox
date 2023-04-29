@@ -2,6 +2,7 @@ acpi
 arandr
 arc-gtk-theme-eos
 archlinux-xdg-menu
+default-cursors
 dex
 dmenu
 dunst
@@ -41,7 +42,6 @@ tint2
 ttf-nerd-fonts-symbols-2048-em
 tumbler
 xbindkeys
-xcursor-neutral
 xdg-user-dirs-gtk
 xed
 xfce4-terminal
