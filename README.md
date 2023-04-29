@@ -16,6 +16,8 @@ We will keep this repo also updated and if you may need to use it will work like
 will list the files
 
 `sudo pacman -S --needed - < <de-wm-name to reinstall>`
+!!make sure to fully update your OS before installing a bunch of new packages!!
+`yay` or at least `sudo pacman -Syu 
 
 where `<de-wm-name to reinstall>` is one of the text files from this repo including `eos-base-group` what will install needed packages would be there on a default install.
 
