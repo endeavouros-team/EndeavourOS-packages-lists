@@ -1,9 +1,10 @@
 adwaita-icon-theme
-eog
+loupe
 evince
 file-roller
 gdm
 gnome-calculator
+gnome-clocks
 gnome-console
 gnome-control-center
 gnome-disk-utility
@@ -12,10 +13,12 @@ gnome-nettool
 gnome-power-manager
 gnome-screenshot
 gnome-shell
+gnome-system-monitor
 gnome-text-editor
 gnome-themes-extra
 gnome-tweaks
 gnome-usage
+gnome-weather
 gvfs
 gvfs-afc
 gvfs-gphoto2
@@ -24,10 +27,10 @@ gvfs-nfs
 gvfs-smb
 nautilus
 nautilus-sendto
-qgnomeplatform-qt5
-qgnomeplatform-qt6
 sushi
 totem
+xdg-desktop-portal-gnome
+xdg-desktop-portal
 xdg-user-dirs-gtk
 arc-gtk-theme-eos
 eos-settings-gnome

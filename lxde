@@ -1,4 +1,3 @@
-celluloid
 file-roller
 galculator
 gnome-screenshot
@@ -25,6 +24,7 @@ notification-daemon
 openbox
 pcmanfm-gtk3
 lxmusic
+mpv
 network-manager-applet
 xdg-user-dirs-gtk
 xed

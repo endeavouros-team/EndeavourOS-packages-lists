@@ -4,7 +4,6 @@ budgie-desktop-view
 budgie-extras
 budgie-screensaver
 eog
-evince
 file-roller
 gedit
 gnome-keyring
@@ -18,12 +17,12 @@ gvfs-nfs
 gvfs-smb
 lightdm
 lightdm-slick-greeter
+mpv
 nemo
 nemo-fileroller
 nemo-preview
 network-manager-applet
 sushi
-totem
 xdg-user-dirs-gtk
 arc-gtk-theme-eos
 eos-settings-budgie

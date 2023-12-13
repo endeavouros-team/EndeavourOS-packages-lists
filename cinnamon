@@ -1,8 +1,7 @@
-celluloid
 cinnamon
 cinnamon-translations
 file-roller
-gnome-calculator
+galculator
 gnome-screenshot
 gnome-system-monitor
 gnome-terminal
@@ -15,6 +14,7 @@ gvfs-nfs
 gvfs-smb
 lightdm
 lightdm-slick-greeter
+mpv
 nemo-fileroller
 nemo-image-converter
 nemo-preview

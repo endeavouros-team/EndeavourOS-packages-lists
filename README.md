@@ -35,7 +35,7 @@ example:
 
 `sudo pacman -S --needed - < gnome`
 
-`sudo pacman -S --needed - < plasma`
+`sudo pacman -S --needed - < kde`
 
 `sudo pacman -S --needed - < lxde`
 
@@ -43,13 +43,6 @@ example:
 
 `sudo pacman -S --needed - < mate`
 
-`sudo pacman -S --needed - < openbox`
-
-`sudo pacman -S --needed - < sway`
-
-`sudo pacman -S --needed - < worm`
-
-`sudo pacman -S --needed - < qtile`
 
 `sudo pacman -S --needed - < eos-base-group`
 

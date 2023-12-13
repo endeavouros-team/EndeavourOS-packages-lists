@@ -6,7 +6,7 @@ awesome-terminal-fonts
 dex
 dmenu
 dunst
-endeavouros-skel-i3wm
+eos-settings-i3wm
 endeavouros-xfce4-terminal-colors
 eos-lightdm-slick-theme
 eos-qogir-icons

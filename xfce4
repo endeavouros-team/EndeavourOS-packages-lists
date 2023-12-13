@@ -9,13 +9,13 @@ gvfs-nfs
 gvfs-smb
 lightdm
 lightdm-slick-greeter
+mousepad
 network-manager-applet
 parole
 ristretto
 thunar-archive-plugin
 thunar-media-tags-plugin
 xdg-user-dirs-gtk
-xed
 xfce4
 xfce4-battery-plugin
 xfce4-datetime-plugin
@@ -33,5 +33,5 @@ xfce4-xkb-plugin
 arc-gtk-theme-eos
 eos-lightdm-slick-theme
 eos-qogir-icons
-endeavouros-skel-xfce4
+eos-settings-xfce4
 endeavouros-xfce4-terminal-colors
