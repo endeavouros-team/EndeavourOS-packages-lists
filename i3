@@ -13,8 +13,6 @@ eos-qogir-icons
 feh
 file-roller
 galculator
-gthumb
-gtk-engine-murrine
 gvfs
 gvfs-afc
 gvfs-gphoto2
