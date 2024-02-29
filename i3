@@ -23,6 +23,7 @@ i3-wm
 i3blocks
 i3lock
 i3status
+brightnessctl
 jq
 lightdm
 lightdm-slick-greeter
