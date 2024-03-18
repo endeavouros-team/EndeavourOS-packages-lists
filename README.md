@@ -43,8 +43,15 @@ example:
 
 `sudo pacman -S --needed - < mate`
 
+---
 
-`sudo pacman -S --needed - < eos-base-group`
+`sudo pacman -S --needed - < eos-base-group` (base system packages)
+
+`sudo pacman -S --needed - < eos-apps` (common EndeavourOS apps)
+
+`sudo pacman -S --needed - < printer` (cups)
+
+`sudo pacman -S --needed - < hp-printer` (HP printer and scanner Hewlett-Packard)
 
 ## Disclaimer
 
