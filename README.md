@@ -19,7 +19,7 @@ will list the files
 
 `sudo pacman -S --needed - < <de-wm-name to reinstall>`
 
-!!make sure to fully update your OS before installing a bunch of new packages!!
+!!**make sure to fully update your OS before installing a bunch of new packages**!!
 
 `yay` or at least `sudo pacman -Syu`
 
