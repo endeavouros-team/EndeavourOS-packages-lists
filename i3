@@ -11,7 +11,6 @@ endeavouros-xfce4-terminal-colors
 eos-lightdm-slick-theme
 eos-qogir-icons
 feh
-file-roller
 galculator
 gvfs
 gvfs-afc
@@ -39,9 +38,12 @@ thunar
 thunar-archive-plugin
 thunar-volman
 tumbler
+unzip
+xarchiver
 xbindkeys
 xdg-user-dirs-gtk
 xed
 xfce4-terminal
 xorg-xbacklight
 xorg-xdpyinfo
+zip
