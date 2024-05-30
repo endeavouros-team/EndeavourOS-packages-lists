@@ -25,7 +25,7 @@ i3status
 jq
 lightdm
 lightdm-slick-greeter
-lxappearance-gtk3
+nwg-look
 mpv
 network-manager-applet
 numlockx
