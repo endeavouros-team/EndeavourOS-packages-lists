@@ -1,7 +1,6 @@
 hplip
 python-pyqt5
 python-reportlab
-xsane
 cups
 cups-browsed
 cups-filters
