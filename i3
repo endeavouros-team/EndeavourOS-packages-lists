@@ -46,4 +46,5 @@ xed
 xfce4-terminal
 xorg-xbacklight
 xorg-xdpyinfo
+xss-lock
 zip
