@@ -1,4 +1,4 @@
-# reinstall-DE/WM/BASE-for-EndeavourOS
+# Reinstall-DE/WM/BASE-for-EndeavourOS
 we now offer a script/package to get DE/WM installed by list of packages from ISO:
 
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-packagelist
