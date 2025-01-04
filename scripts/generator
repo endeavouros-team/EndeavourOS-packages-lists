@@ -3,17 +3,16 @@
 # Generate package files using online netinstall.yaml directly
 # using eos-packageslist
 eos-packagelist "Desktop-Base + Common packages" > eos-base-group
-eos-packagelist "XFCE4-Desktop" > xfce4    
-eos-packagelist "i3-Window-Manager" > i3
+eos-packagelist "EndeavourOS applications" > eos-apps
+eos-packagelist "Recommended applications selection" > recom-apps
+eos-packagelist "Printing support" > printer
+eos-packagelist "HP printer/scanner support" > hp-printer
 eos-packagelist "KDE-Desktop" > kde      
 eos-packagelist "GNOME-Desktop" > gnome
+eos-packagelist "XFCE4-Desktop" > xfce4 
 eos-packagelist "MATE-Desktop" > mate
 eos-packagelist "Cinnamon-Desktop" > cinnamon
 eos-packagelist "Budgie-Desktop" > budgie
 eos-packagelist "LXQT-Desktop" > lxqt
 eos-packagelist "LXDE-Desktop" > lxde
-eos-packagelist "BSPWM Edition" > bspwm
-eos-packagelist "Openbox Edition" > openbox
-eos-packagelist "Qtile Edition" > qtile
-eos-packagelist "Sway Edition" > sway
-eos-packagelist "Worm Edition" > worm
+eos-packagelist "i3-Window-Manager" > i3
