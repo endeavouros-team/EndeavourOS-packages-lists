@@ -7,7 +7,7 @@ You can install on EndeavourOS: `sudo pacman -S eos-packagelist`
 
 We will keep this repo also updated and if you may need to use it will work like before:
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)]()
 
 
 `git clone https://github.com/endeavouros-team/EndeavourOS-packages-lists.git`
