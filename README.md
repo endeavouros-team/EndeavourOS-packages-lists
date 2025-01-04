@@ -51,6 +51,8 @@ example:
 
 `sudo pacman -S --needed - < eos-apps` (common EndeavourOS apps)
 
+`sudo pacman -S --needed - < recom-apps` (Recommended apps)
+
 `sudo pacman -S --needed - < printer` (cups)
 
 `sudo pacman -S --needed - < hp-printer` (HP printer and scanner Hewlett-Packard)
