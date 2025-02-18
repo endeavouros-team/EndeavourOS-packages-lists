@@ -5,6 +5,9 @@
 eos-packagelist "Desktop-Base + Common packages" > eos-base-group
 eos-packagelist "EndeavourOS applications" > eos-apps
 eos-packagelist "Recommended applications selection" > recom-apps
+eos-packagelist "Firefox and language package" >> recom-apps
+eos-packagelist "Firewall" >> recom-apps
+eos-packagelist "Spell Checker and language package" >> recom-apps
 eos-packagelist "Printing support" > printer
 eos-packagelist "HP printer/scanner support" > hp-printer
 eos-packagelist "KDE-Desktop" > kde      
@@ -16,3 +19,4 @@ eos-packagelist "Budgie-Desktop" > budgie
 eos-packagelist "LXQT-Desktop" > lxqt
 eos-packagelist "LXDE-Desktop" > lxde
 eos-packagelist "i3-Window-Manager" > i3
+
