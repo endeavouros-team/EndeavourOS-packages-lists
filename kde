@@ -3,6 +3,7 @@ bluedevil
 breeze-gtk
 dolphin
 dolphin-plugins
+eos-breeze-sddm
 ffmpegthumbs
 fwupd
 gwenview
@@ -43,6 +44,5 @@ sddm-kcm
 spectacle
 xdg-desktop-portal-kde
 xsettingsd
-xwaylandvideobridge
 eos-breeze-sddm
 eos-settings-plasma
