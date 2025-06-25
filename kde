@@ -37,6 +37,7 @@ plasma-nm
 plasma-pa
 plasma-systemmonitor
 plasma-workspace
+plasma-x11-session
 powerdevil
 print-manager
 qt6-imageformats
@@ -45,4 +46,5 @@ spectacle
 xdg-desktop-portal-kde
 xsettingsd
 eos-breeze-sddm
+endeavouros-konsole-colors
 eos-settings-plasma
