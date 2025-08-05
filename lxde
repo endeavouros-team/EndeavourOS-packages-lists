@@ -9,7 +9,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 lxappearance-gtk3
-obconf
+lxappearance-obconf-gtk3
 lxde-common
 lxde-icon-theme
 lxhotkey-gtk3
