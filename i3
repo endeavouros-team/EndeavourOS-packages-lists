@@ -3,6 +3,7 @@ arandr
 arc-gtk-theme-eos
 archlinux-xdg-menu
 awesome-terminal-fonts
+brightnessctl
 dex
 dmenu
 dunst
@@ -44,7 +45,6 @@ xbindkeys
 xdg-user-dirs-gtk
 xed
 xfce4-terminal
-xorg-xbacklight
 xorg-xdpyinfo
 xss-lock
 zip
