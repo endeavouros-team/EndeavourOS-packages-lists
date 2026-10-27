@@ -15,7 +15,6 @@ kdeconnect
 kdegraphics-thumbnailers
 kdenetwork-filesharing
 kdeplasma-addons
-kgamma
 kimageformats
 kinfocenter
 kio-admin
@@ -36,11 +35,11 @@ plasma-nm
 plasma-pa
 plasma-systemmonitor
 plasma-workspace
-plasma-x11-session
 powerdevil
 print-manager
 qt6-imageformats
 sddm-kcm
+tesseract-data-eng 
 spectacle
 xdg-desktop-portal-kde
 xsettingsd
