@@ -20,6 +20,11 @@ nemo-image-converter
 nemo-share
 x-apps
 xdg-user-dirs-gtk
+xorg-xdpyinfo
+xorg-server
+xorg-xinput
+xorg-xkill
+xorg-xrandr
 arc-gtk-theme-eos
 eos-lightdm-slick-theme
 eos-qogir-icons
