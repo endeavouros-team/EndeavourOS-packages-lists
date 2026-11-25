@@ -1,11 +1,4 @@
 mesa-utils
-xf86-input-libinput
-xorg-xdpyinfo
-xorg-server
-xorg-xinit
-xorg-xinput
-xorg-xkill
-xorg-xrandr
 b43-fwcutter
 dialog
 dnsmasq
