@@ -46,5 +46,9 @@ xdg-user-dirs-gtk
 xed
 xfce4-terminal
 xorg-xdpyinfo
+xorg-server
+xorg-xinput
+xorg-xkill
+xorg-xrandr
 xss-lock
 zip
