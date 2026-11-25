@@ -11,7 +11,13 @@ mate-extra
 mpv
 network-manager-applet
 xdg-user-dirs-gtk
+xorg-xdpyinfo
+xorg-server
+xorg-xinput
+xorg-xkill
+xorg-xrandr
 arc-gtk-theme-eos
 eos-settings-mate
 eos-lightdm-slick-theme
 eos-qogir-icons
+
