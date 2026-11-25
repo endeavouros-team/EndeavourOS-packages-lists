@@ -29,6 +29,11 @@ xfce4-wavelan-plugin
 xfce4-weather-plugin
 xfce4-whiskermenu-plugin
 xfce4-xkb-plugin
+xorg-xdpyinfo
+xorg-server
+xorg-xinput
+xorg-xkill
+xorg-xrandr
 arc-gtk-theme-eos
 eos-lightdm-slick-theme
 eos-qogir-icons
