@@ -32,3 +32,8 @@ arc-gtk-theme-eos
 eos-settings-lxde
 eos-lxdm-gtk3
 eos-qogir-icons
+xorg-xdpyinfo
+xorg-server
+xorg-xinput
+xorg-xkill
+xorg-xrandr
