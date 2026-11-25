@@ -16,5 +16,10 @@ vlc
 xdg-utils
 xscreensaver
 xsettingsd
+xorg-xdpyinfo
+xorg-server
+xorg-xinput
+xorg-xkill
+xorg-xrandr
 eos-settings-lxqt
 eos-sddm-theme
